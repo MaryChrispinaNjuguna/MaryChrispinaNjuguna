@@ -1,8 +1,9 @@
+
+# Hi, I'm Mary! 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-# Hi, I'm Mary! 👋
 I am a passionate CS student at Kenyatta University, driven by a curiosity for technology and a love for writing code.
 
 
