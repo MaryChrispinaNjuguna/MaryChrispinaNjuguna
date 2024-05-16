@@ -1,12 +1,12 @@
 
 # Hi, I'm Mary! 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+I am a passionate, driven by a curiosity for technology and a love for writing code.
+## 🚀 About Me
 
-I am a passionate CS student at Kenyatta University, driven by a curiosity for technology and a love for writing code.
-
-
+- 🔭 
+- 📝 
+- 🌐 
+- ✍️
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -26,7 +26,6 @@ I am a passionate CS student at Kenyatta University, driven by a curiosity for t
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaryChrispinaNjuguna&theme=dark&background=000000)](https://git.io/streak-stats)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryChrispinaNjuguna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
