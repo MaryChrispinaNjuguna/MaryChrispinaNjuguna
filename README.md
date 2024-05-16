@@ -29,7 +29,9 @@ I am a passionate CS student at Kenyatta University, driven by a curiosity for t
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaryChrispinaNjuguna&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![MaryChrispinaNjuguna's Stats](https://github-readme-stats.vercel.app/api?username=MaryChrispinaNjuguna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryChrispinaNjuguna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![MaryChrispinaNjuguna's Stats](https://github-readme-stats.vercel.app/api?username=MaryChrispinaNjuguna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
