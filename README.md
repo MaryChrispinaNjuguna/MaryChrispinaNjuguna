@@ -1,3 +1,10 @@
+# Hi, I'm Mary! 👋
+
+I am a passionate CS student at Kenyatta University, driven by a curiosity for technology and a love for writing code.
+![MaryChrispinaNjuguna's Stats](https://github-readme-stats.vercel.app/api?username=MaryChrispinaNjuguna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
