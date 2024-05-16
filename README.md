@@ -8,7 +8,7 @@ I am a passionate, driven by a curiosity for technology and a love for writing c
 - 🌐 
 - ✍️
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@ I am a passionate, driven by a curiosity for technology and a love for writing c
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaryChrispinaNjuguna&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
