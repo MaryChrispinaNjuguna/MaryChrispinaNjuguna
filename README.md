@@ -1,7 +1,7 @@
 
 # Hi, I'm Mary! 👋
-I am a passionate, driven by a curiosity for technology and a love for writing code.
-## 🚀 About Me
+I am a passionate web and mobile developer, driven by a curiosity for technology and a love for writing code.
+## 🚀 
 
 - 🔭 
 - 📝 
