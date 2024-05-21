@@ -1,12 +1,12 @@
 
 # Hi, I'm Mary! 👋
 I am a passionate developer, driven by a curiosity for technology and a love for writing code.
-### 🚀 
+### 🚀 About Me 
 
-- 🔭 
-- 📝 
-- 🌐 
-- ✍️
+- 🌍 Based in Nairobi, Kenya
+- ✉️ Reach me at [chrispinamary@gmail.com](mailto:chrispinamary@gmail.com)
+- 🧠 Currently learning Django, Kotlin, and any other interesting technologies
+- 🤝 Open to collaborating on exciting projects
 
 ### :hammer_and_wrench: Languages and Tools :
 
