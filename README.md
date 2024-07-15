@@ -7,6 +7,7 @@ I am a passionate developer, driven by a curiosity for technology and a love for
 - ✉️ Reach me at [chrispinamary@gmail.com](mailto:chrispinamary@gmail.com)
 - 🧠 Currently learning Django, Kotlin, and any other interesting technologies
 - 🤝 Open to collaborating on exciting projects
+- [![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -25,7 +26,6 @@ I am a passionate developer, driven by a curiosity for technology and a love for
 </p>
 
 ### :fire: My Stats :
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaryChrispinaNjuguna&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
