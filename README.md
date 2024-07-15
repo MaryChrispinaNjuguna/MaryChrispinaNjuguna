@@ -7,8 +7,7 @@ I am a passionate developer, driven by a curiosity for technology and a love for
 - ✉️ Reach me at [chrispinamary@gmail.com](mailto:chrispinamary@gmail.com)
 - 🧠 Currently learning Django, Kotlin, and any other interesting technologies
 - 🤝 Open to collaborating on exciting projects
-- [![wakatime](https://wakatime.com/@a45500a0-192d-436e-a64f-3d934f0ab7df?rank=me&page=1&board=ca43e7c8-5de1-45d1-8057-347e780b86bd)
-
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@a45500a0-192d-436e-a64f-3d934f0ab7df?rank=me&page=1&board=ca43e7c8-5de1-45d1-8057-347e780b86bd)
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="left">
