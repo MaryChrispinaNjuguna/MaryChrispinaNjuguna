@@ -5,7 +5,7 @@ I am a passionate developer, driven by a curiosity for technology and a love for
 
 - 🌍 Based in Nairobi, Kenya
 - ✉️ Reach me at [chrispinamary@gmail.com](mailto:chrispinamary@gmail.com)
-- 🧠 Currently learning Django, Kotlin, and any other interesting technologies
+- 🧠 Currently learning Django, React, and any other interesting technologies
 - 🤝 Open to collaborating on exciting projects
 - [![wakatime](https://wakatime.com/badge/user/a45500a0-192d-436e-a64f-3d934f0ab7df.svg)](https://wakatime.com/@a45500a0-192d-436e-a64f-3d934f0ab7df?rank=me&page=1&board=ca43e7c8-5de1-45d1-8057-347e780b86bd)
   
